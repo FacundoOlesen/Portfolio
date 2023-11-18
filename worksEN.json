@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "TID Store",
+        "image": "./images/3project.png",
+        "text": "👨‍💻 Back-End and Front-End E-commerce. JWT Authentication. Manage of Sessions. Encryption. CRUD.",
+        "tags": "PHP, MYSQL, OOP",
+        "linkdeploy": "",
+        "linkgh": "https://github.com/FacundoOlesen/TPE_WEB2"
+    },
+    {
+        "id": 2,
+        "title": "Netflix Clon",
+        "image": "./images/2project.png",
+        "text": "🎬 Log In and main page of Netflix made with HTML, CSS & JavaScript.",
+        "tags": "HTML, CSS, JAVASCRIPT",
+        "linkdeploy": "https://netflixclone-beryl-delta.vercel.app/",
+        "linkgh": "https://github.com/FacundoOlesen/netflixclone"
+    }
+    ,
+    {
+       "id": 3,
+        "title": "API REST",
+        "image": "./images/5project.png",
+        "text": "👨‍💻 Back-End project. API REST with a CRUD. JWT Authetication. Sessions. Encryption (SHA5).",
+        "tags": "PHP, MYSQL, POSTMAN",
+        "linkdeploy": "",
+        "linkgh": "https://github.com/FacundoOlesen/TPE_WEB_2_PARTE_2"
+    }
+    ,
+
+    {
+        "id": 5,
+        "title": "TUDAI Gaming",
+        "text": "University project about a website of videogames online.",
+        "image": "./images/1project.png",
+        "tags": "HTML, CSS, JAVASCRIPT",
+        "linkdeploy": "https://tudaigaming.vercel.app/",
+        "linkgh": "https://github.com/FacundoOlesen/TPE_Interfaces/tree/main/TP2"
+    }
+]
