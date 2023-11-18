@@ -5,12 +5,10 @@ function cambiarIdioma(){
 const selectedValue = selectLang.value;
 if (selectedValue == "english"){
     jsonLang="worksEN.json"
-    console.log(jsonLang)
 
 }
 else{
     jsonLang="worksES.json"
-    console.log(jsonLang)
 }
 }
 

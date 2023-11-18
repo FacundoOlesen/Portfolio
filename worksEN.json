@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "title": "Netflix Clon",
+        "title": "Netflix Clone",
         "image": "./images/2project.png",
         "text": "🎬 Log In and main page of Netflix made with HTML, CSS & JavaScript.",
         "tags": "HTML, CSS, JAVASCRIPT",
