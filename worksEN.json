@@ -3,7 +3,7 @@
         "id": 1,
         "title": "TID Store",
         "image": "./images/3project.png",
-        "text": "👨‍💻 Back-End and Front-End E-commerce. JWT Authentication. Manage of Sessions. Encryption. CRUD.",
+        "text": "👨‍💻 Back-End and Front-End E-commerce. JWT Authentication. Manage of Sessions. Encryption. MVC. CRUD.",
         "tags": "PHP, MYSQL, OOP",
         "linkdeploy": "",
         "linkgh": "https://github.com/FacundoOlesen/TPE_WEB2"
@@ -22,7 +22,7 @@
        "id": 3,
         "title": "API REST",
         "image": "./images/5project.png",
-        "text": "👨‍💻 Back-End project. API REST with a CRUD. JWT Authetication. Sessions. Encryption (SHA5).",
+        "text": "👨‍💻 Back-End project. Creation of API REST with a CRUD. JWT Authetication. Sessions. Encryption (SHA5) MVC.",
         "tags": "PHP, MYSQL, POSTMAN",
         "linkdeploy": "",
         "linkgh": "https://github.com/FacundoOlesen/TPE_WEB_2_PARTE_2"

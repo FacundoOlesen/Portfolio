@@ -32,7 +32,7 @@ function obtenerSeleccion() {
        setES()
     }
     
-}
+} 
 
     function setES(){
         titles[0].innerHTML = "Inicio"
@@ -71,7 +71,7 @@ function obtenerSeleccion() {
 function setEN(){
     titles[0].innerHTML = "Home"
     titles[1].innerHTML = "About"
-    titles[2].innerHTML = "Proyects"
+    titles[2].innerHTML = "Works"
     titles[3].innerHTML = "Contact"
     iam[0].innerHTML = "I am Facundo Olesen"
     iam[1].innerHTML = "I am Facundo Olesen"
