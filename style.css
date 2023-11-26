@@ -22,7 +22,7 @@
     animation: drop-in 2s ease 1100ms backwards;
 }
 
-@keyframes drop-in {
+@keyframes drosp-in {
     from {
         opacity: 0;
         transform: translateY(-100px);
